@@ -27,6 +27,78 @@ th, td {
         width: 1181px; height: 61px;
        }
 
+.background1 {
+               background-image: url(image/header.png);
+             }
+
+.background2 {
+              background-image: url(image/menu.png);
+             }
+
+.background3 {
+              background-image: url(image/center.png);
+             }
+
+.background4 {
+              background-image: url(image/footer.png);
+             }
+
+.center_table {
+                margin: auto;
+              }
+
+.body_color {
+            background-color: #9fdbcd;
+            }
+
+.page_size {
+             width: 1200px; height: 800px;
+           }
+
+.background_table {
+                    background-color:1733c0 
+                  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
