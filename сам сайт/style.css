@@ -1,4 +1,36 @@
 
+
+
+
+table  {
+         border: 1px solid black;
+         border-collapse: collapse;
+       }
+th, td {
+         border: 1px solid black;
+       }
+
+
 .note {
-        border: 1px solid black;
+        width: 1181px; height: 100px;
       }
+
+.note1 {
+        width: 390px; height: 50px;
+       }
+
+.note2 {
+        width: 1181px; height: 549px;
+       }
+
+.note3 {
+        width: 1181px; height: 61px;
+       }
+
+
+
+
+
+
+
+
