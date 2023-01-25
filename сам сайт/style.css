@@ -3,10 +3,10 @@
 
 
 table  {
-         border: 1px solid black;
+         border: 3px solid black;
        }
 th, td {
-         border: 1px solid black;
+         border: 3px solid black;
        }
 
 
@@ -47,7 +47,7 @@ th, td {
               }
 
 .body_color {
-            background-color: 20e329;
+            background-color: #68d444;
             }
 
 .page_size {
@@ -55,14 +55,32 @@ th, td {
            }
 
 .background_table {
-                    background-color:d54ea7; 
+                    background-color: #d11fdb; 
                   }
 
+.font {
+        font-family: Verdana;
+        font-style: italic;
+      }                
+.font_color {
+              color: #eff70a;
+            }   
 
+.font_color1 {
+              color: #d11fdb;
+             }
 
+.font_center {
+              text-align: center;
+             }
 
-
-
+.font-size1 {
+             font-size: 36px;
+            }
+            
+.font-size2 {
+             font-size: 24px;
+            }
 
 
 
