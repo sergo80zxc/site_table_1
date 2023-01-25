@@ -4,7 +4,6 @@
 
 table  {
          border: 1px solid black;
-         border-collapse: collapse;
        }
 th, td {
          border: 1px solid black;
@@ -48,7 +47,7 @@ th, td {
               }
 
 .body_color {
-            background-color: #9fdbcd;
+            background-color: 20e329;
             }
 
 .page_size {
@@ -56,7 +55,7 @@ th, td {
            }
 
 .background_table {
-                    background-color:1733c0 
+                    background-color:d54ea7; 
                   }
 
 
