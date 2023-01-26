@@ -83,7 +83,9 @@ th, td {
             }
 
 
-
+.link {
+        text-decoration: none;
+      }
 
 
 
